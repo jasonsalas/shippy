@@ -16,7 +16,7 @@
 
 ***
 
-### Modifications to protobuf definitions
+### Modifications to protobuf definitions/compiling
 
 This forked repo makes a couple of additions to [the original project](https://ewanvalentine.io/microservices-in-golang-part-1/) with the compilation instructions to generate the [protocol buffer definitions](https://github.com/jasonsalas/shippy/blog/main/shippy-service-consignment/proto/consignment/consignment.pb.go), and the inclusion of the `go_package` option in the [protobuf service definition](https://github.com/jasonsalas/shippy/blog/main/shippy-service-consignment/proto/consignment/consignment.proto):
 
