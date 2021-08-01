@@ -1,4 +1,4 @@
-# Microservices in Go
+# Microservices in Go with gRPC
 
 ## This repo builds upon the [outstanding tutorial series](https://ewanvalentine.io/microservices-in-golang-part-0/) on developing a comprehensive, end-to-end microservice-driven web application by [@Ewan_Valentine](https://twitter.com/Ewan_Valentine)
 
