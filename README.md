@@ -1,18 +1,18 @@
 # Microservices in Go with gRPC
 
-## This repo builds upon the [outstanding tutorial series](https://ewanvalentine.io/microservices-in-golang-part-0/) on developing a comprehensive, end-to-end microservice-driven web application by [@Ewan_Valentine](https://twitter.com/Ewan_Valentine)
+## This repo builds upon the [outstanding tutorial series](https://ewanvalentine.io/microservices-in-golang-part-0/) on developing a comprehensive, [gRPC-driven microservice](https://github.com/EwanValentine/shippy) web application by [@Ewan_Valentine](https://twitter.com/Ewan_Valentine)
 
 ***
 
 ### This demo uses the following technologies in each tagged release:
 
-- Go
-- Kubernetes
-- gRPC
-- Micro (Go microservice framework)
-- MongoDB and/or Postgres
-- Docker
-- Google Cloud
+- [Go](https://golang.org)
+- [Kubernetes](https://kubernetes.io/)
+- [gRPC](https://grpc.io/)
+- [Micro (Go microservice framework)](https://micro.mu/)
+- [MongoDB](https://www.mongodb.com/) and/or [Postgres](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
+- [Google Cloud](https://cloud.google.com/)
 
 ***
 
